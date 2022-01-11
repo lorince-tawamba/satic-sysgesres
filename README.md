@@ -4,7 +4,7 @@ Système de Gestion des Résidences.
 
 ## Architecture
 
-![App Screenshot](https://github.com/lorince-tawamba/satic-online-shop-centralize-configuration-file/blob/main/Architecture.jpg?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/lorince-tawamba/satic-sysgesres/blob/main/Architecture.jpg?text=App+Screenshot+Here)
 
 # Authors
 
